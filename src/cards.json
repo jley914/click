@@ -1,0 +1,104 @@
+[
+    {
+        "id": 1,
+        "name": "Daffy Cornelius Duck",
+        "image": "https://vignette.wikia.nocookie.net/vsbattles/images/d/d7/Daffy_Duck.png/revision/latest/scale-to-width-down/300?cb=20161029154933",
+        "count": 0
+    },
+    {
+        "id": 2,
+        "name": "(The) Barnyard Dawg",
+        "image": "https://vignette.wikia.nocookie.net/looneytunesshowfanon/images/0/0c/ImagesCA8GHF51.jpg/revision/latest/scale-to-width-down/119?cb=20121110221931",
+        "count": 0
+    },
+    {
+        "id": 3,
+        "name": "Bugs Bunny",
+        "image": "https://vignette.wikia.nocookie.net/vsbattles/images/6/63/Bugs-bunnyreclining.png/revision/latest?cb=20160816194751",
+        "count": 0
+    },
+    {
+        "id": 4,
+        "name": "Marvin the Martian",
+        "image": "https://vignette.wikia.nocookie.net/vsbattles/images/7/78/Marvin_the_Martian.png/revision/latest/scale-to-width-down/400?cb=20160825165636",
+        "count": 0
+    },
+    {
+        "id": 5,
+        "name": "Yosemite Sam",
+        "image": "https://vignette.wikia.nocookie.net/vsbattles/images/4/4a/Yosemite_Sam_by_chaosengine77.png/revision/latest/scale-to-width-down/350?cb=20161019000453",
+        "count": 0
+    },
+    {
+        "id": 6,
+        "name": "Wile E. Coyote",
+        "image": "https://vignette.wikia.nocookie.net/vsbattles/images/b/be/WEC.png/revision/latest?cb=20161223201540",
+        "count": 0
+    },
+    {
+        "id": 7,
+        "name": "The Road Runner",
+        "image": "https://vignette.wikia.nocookie.net/vsbattles/images/5/5e/Roadrunner3.png/revision/latest/scale-to-width-down/400?cb=20160816194938",
+        "count": 0
+    },
+    {
+        "id": 8,
+        "name": "Porky",
+        "image": "https://vignette.wikia.nocookie.net/looneytunesshowfanon/images/f/fe/Porky.gif/revision/latest/scale-to-width-down/141?cb=20160415093731",
+        "count": 0
+    },
+    {
+        "id": 9,
+        "name": "Road Runner",
+        "image": "https://vignette.wikia.nocookie.net/looneytunesshowfanon/images/d/d4/ImagesCAIMZC2M.jpg/revision/latest/scale-to-width-down/212?cb=20140313135256",
+        "count": 0
+    },
+    {
+        "id": 10,
+        "name": " Sweetie Pie",
+        "image": "https://vignette.wikia.nocookie.net/looneytunesshowfanon/images/c/c9/Cutetweety.jpg/revision/latest?cb=20130523225858",
+        "count": 0
+    },
+    {
+        "id": 11,
+        "name": "Pinky and The Brain",
+        "image": "https://vignette.wikia.nocookie.net/looneytunesshowfanon/images/e/eb/Pinky_and_the_Brain.jpg/revision/latest/scale-to-width-down/182?cb=20130501165202",
+        "count": 0
+    },
+    {
+        "id": 12,
+        "name": "The Catastrophe",
+        "image": "https://vignette.wikia.nocookie.net/looneytunesshowfanon/images/3/30/ImagesCAPTSJ0Q.jpg/revision/latest/scale-to-width-down/196?cb=20130125154528",
+        "count": 0
+    },
+    {
+        "id": 13,
+        "name": "Foghorn Leghorn",
+        "image": "https://vignette.wikia.nocookie.net/looneytunesshowfanon/images/0/06/142px-Leghorn.png/revision/latest?cb=20121226173447",
+        "count": 0
+    },
+    {
+        "id": 14,
+        "name": "Tasmanian She-Devil",
+        "image": "https://vignette.wikia.nocookie.net/looneytunesshowfanon/images/b/bb/ImagesCAESCEJX.jpg/revision/latest/scale-to-width-down/164?cb=20121223235531",
+        "count": 0
+    },
+    {
+        "id": 15,
+        "name": "Tasmanian Devil",
+        "image": "https://vignette.wikia.nocookie.net/looneytunesshowfanon/images/1/1d/ImagesCA5J4GYF.jpg/revision/latest?cb=20121104140611",
+        "count": 0
+    },
+    {
+        "id": 16,
+        "name": "Speedy Gonzales",
+        "image": "https://vignette.wikia.nocookie.net/looneytunesshowfanon/images/9/9c/ImagesCAF2G8J5.jpg/revision/latest/scale-to-width-down/185?cb=20121104225841",
+        "count": 0
+    },
+    {
+        "id": 17,
+        "name": "Tasmanian Devil",
+        "image": "https://vignette.wikia.nocookie.net/looneytunesshowfanon/images/a/a3/Taz.png/revision/latest/scale-to-width-down/146?cb=20121103164929",
+        "count": 0
+    }
+]

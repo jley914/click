@@ -1,0 +1,21 @@
+.wrapper {
+  color: red;
+    padding-top: 50px blue;
+    background: url(http://i.imgur.com/zyRK4.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 1250%;
+    display: flex;
+    flex-flow: row wrap;
+    padding: 20px;
+    border-style: solid;
+  border-width: 20px;
+  border-top-style: ;
+  border-right-style: solid;
+  border-bottom-style: dotted;
+  border-left-style: solid;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+  }
+   

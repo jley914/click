@@ -1,0 +1,16 @@
+.header {
+    width: 100%;
+    font-size: 100px;
+    color:red; 
+    margin-bottom: 10px;
+    background-image: url(https://cdn1.vectorstock.com/i/1000x1000/14/70/cartoon-clouds-set-on-blue-sky-background-set-of-vector-10831470.jpg)
+
+  }
+  
+  .title {
+    float: left;
+  }
+  
+  .scores {
+    float: right;
+  }
