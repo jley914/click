@@ -2,8 +2,11 @@
   "name": "clicky-game",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https/jley914.github.io/click",
   "dependencies": {
     "bootstrap": "^4.3.1",
+    "gh-pages": "^2.0.1",
+    "prop-types": "^15.7.2",
     "react": "^16.8.4",
     "react-bootstrap": "^1.0.0-beta.5",
     "react-dom": "^16.8.4",
@@ -12,6 +15,8 @@
     "react-transition-group": "^1.2.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
